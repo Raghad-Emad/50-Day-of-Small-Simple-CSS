@@ -40,7 +40,11 @@ body {
     transition: transform 0.5s ease;
 }
 
-.input:focus , .btn:focus {
+.input:focus {
+    outline: none;
+} 
+
+.btn:focus {
     outline: none;
 }
 
