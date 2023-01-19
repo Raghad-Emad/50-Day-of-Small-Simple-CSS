@@ -83,6 +83,8 @@
     transition-delay: 0.3s;
   }
   
+  /* Format nav links */
+
   nav {
     position: fixed;
     bottom: 40px;
